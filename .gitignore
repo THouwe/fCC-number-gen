@@ -1,0 +1,7 @@
+# Environment variables
+.env
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
